@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Antoine Boudeville
+Antoine Boudeville
 Web developer
 
 Show Contacts
